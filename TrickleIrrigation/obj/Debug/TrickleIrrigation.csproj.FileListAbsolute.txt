@@ -1,0 +1,16 @@
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\bin\Debug\TrickleIrrigation.exe.config
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\bin\Debug\TrickleIrrigation.exe
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\bin\Debug\TrickleIrrigation.pdb
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.csprojResolveAssemblyReference.cache
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.FormMainfm.resources
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.Properties.Resources.resources
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.csproj.GenerateResource.Cache
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.exe
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.pdb
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.DesigneParam.resources
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.IrrigationDesinge.resources
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.IrrigationPlan.resources
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\TrickleIrrigation.csproj.ResolveComReference.cache
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\obj\Debug\Interop.ExcelClientPkgLib.dll
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\bin\Debug\MathNet.Numerics.dll
+D:\c#demo\TrickleIrrigation\TrickleIrrigation\bin\Debug\MathNet.Numerics.xml
